@@ -1,2 +1,3 @@
-# gitpractisepurpose
-This project is to practice git. 
+# maven-project
+
+Simple Maven Project
