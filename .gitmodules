@@ -1,0 +1,6 @@
+[submodule "gitpractisepurpose"]
+	path = gitpractisepurpose
+	url = https://github.com/chandrasekhar1106/gitpractisepurpose.git
+[submodule "jenkins-tomcat-project"]
+	path = jenkins-tomcat-project
+	url = https://github.com/chandrasekhar1106/jenkins-tomcat-project.git
